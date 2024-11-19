@@ -1,2 +1,2 @@
 # chillout-theme
-Misskey/VSCode theme with a calm design.
+Misskey theme with a calm design.
