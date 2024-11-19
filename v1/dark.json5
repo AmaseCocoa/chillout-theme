@@ -39,7 +39,7 @@
 		buttonBg: ':darken<5<@panel',
 		switchBg: 'rgba(255, 255, 255, 0.15)',
 		acrylicBg: ':alpha<0.5<@bg',
-		fgOnWhite: '#fff',
+		fgOnWhite: '#333',
 		indicator: '@accent',
 		mentionMe: '@mention',
 		messageBg: '@bg',
