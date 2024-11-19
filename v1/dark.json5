@@ -34,7 +34,6 @@
 		divider: 'rgba(255, 255, 255, 0.1)',
 		hashtag: '#ff9156',
 		mention: '@accent',
-		modalBg: 'rgba(255, 255, 255, 0.3)',
 		success: '#86b300',
 		buttonBg: ':darken<5<@panel',
 		switchBg: 'rgba(255, 255, 255, 0.15)',
@@ -82,6 +81,7 @@
 		panelHeaderDivider: 'rgba(255, 255, 255, 0)',
 		folderHeaderHoverBg: 'rgba(255, 255, 255, 0.1)',
 		scrollbarHandleHover: 'rgba(255, 255, 255, 0.4)',
+		modalBg: 'rgba(0, 0, 0, 0.5)',
 	},
 	author: '@AmaseCocoa@mi.amase.xyz',
 }
